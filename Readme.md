@@ -11,6 +11,8 @@ I have seen so many questions on BASS forums as well as other forums regarding a
 
 **Visual Component Library (VCL) framework**
 
+https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg
+
 **FireMonkey (FMX) framework**
 
 Brief description about BASS audio library
