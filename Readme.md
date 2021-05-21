@@ -21,21 +21,6 @@ I have seen so many questions on BASS forums as well as other forums regarding a
 |--|--|--|
 |![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg|![FMX-Windows32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows32.jpg)|![FMX-Windows64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows64.jpg)|
 
-**MacOS**
-
-![FMX-MacOS](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/MacOS.jpg)
-![FMX-MacOS64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/MacOS64.jpg)
-
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
-
 Brief description about BASS audio library
 ------------------------------------------
 (See more in www.un4seen.com)
