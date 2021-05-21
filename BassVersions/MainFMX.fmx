@@ -1,0 +1,192 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'TestFMX'
+  ClientHeight = 578
+  ClientWidth = 346
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = claDeepskyblue
+    Size.Width = 346.000000000000000000
+    Size.Height = 578.000000000000000000
+    Size.PlatformDefault = False
+    object Button1: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 54.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 13
+      Text = 'Get BASS version'
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 118.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 11
+      Text = 'Get BassEnc version'
+      OnClick = Button2Click
+    end
+    object Button3: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 182.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 9
+      Text = 'Get BassEnc_FLAC version'
+      OnClick = Button3Click
+    end
+    object Button4: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 246.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 7
+      Text = 'Get BassEnc_MP3 version'
+      OnClick = Button4Click
+    end
+    object Button5: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 310.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+      Text = 'Get BassEnc_OGG version'
+      OnClick = Button5Click
+    end
+    object Button6: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 374.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+      Text = 'Get BassEnc_OPUS version'
+      OnClick = Button6Click
+    end
+    object Button7: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 446.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Get BassFLAC version'
+      OnClick = Button7Click
+    end
+    object Button8: TButton
+      Position.X = 43.000000000000000000
+      Position.Y = 522.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Get BassOPUS version'
+      OnClick = Button8Click
+    end
+    object Label1: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 22.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'BASS version'
+      TabOrder = 15
+    end
+    object Label2: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 86.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'BassEnc version'
+      TabOrder = 14
+    end
+    object Label3: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 150.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'BassEnc_FLAC version'
+      TabOrder = 12
+    end
+    object Label4: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 214.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'BassEnc_MP3 version'
+      TabOrder = 10
+    end
+    object Label5: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 278.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'BassEnc_OGG version'
+      TabOrder = 8
+    end
+    object Label6: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 342.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      Text = 'BassEnc_OPUS version'
+      TabOrder = 6
+    end
+    object Label7: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 406.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      TextSettings.Trimming = None
+      Text = 
+        'BassFLAC (add-on) availability as well as BassFLAC (plugin) vers' +
+        'ion'
+      TabOrder = 4
+    end
+    object Label8: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 43.000000000000000000
+      Position.Y = 482.000000000000000000
+      Size.Width = 260.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Center
+      TextSettings.Trimming = None
+      Text = 
+        'BassOPUS (add-on) availability as well as BassOPUS (plugin) vers' +
+        'ion'
+      TabOrder = 2
+    end
+  end
+end

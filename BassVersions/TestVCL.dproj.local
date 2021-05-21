@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/28 00:49:04.000.512,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/04/28 00:49:26.000.829,C:\Users\Tran\Documents\Embarcadero\Studio\Projects\TestVCL.dproj=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/28 00:50:22.000.140,=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BASS\Bass.pas</Transaction>
+    <Transaction>2021/04/28 00:52:26.000.597,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\MainVCL.dfm=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/04/28 00:52:26.000.597,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\MainVCL.pas=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/04/28 00:52:32.000.856,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\TestVCL.dproj=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\TestVCL.dproj</Transaction>
+    <Transaction>2021/04/30 01:10:31.000.455,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc.pas</Transaction>
+    <Transaction>2021/05/04 00:26:33.000.623,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_FLAC.pas</Transaction>
+    <Transaction>2021/05/04 02:05:01.000.939,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_MP3.pas</Transaction>
+    <Transaction>2021/05/04 02:35:28.000.401,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_OGG.pas</Transaction>
+    <Transaction>2021/05/04 02:35:40.000.472,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_OPUS.pas</Transaction>
+    <Transaction>2021/05/09 00:21:06.000.224,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas</Transaction>
+    <Transaction>2021/05/09 00:21:06.000.339,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas</Transaction>
+  </Transactions>
+</BorlandProject>

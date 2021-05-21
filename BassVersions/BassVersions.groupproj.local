@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/28 00:10:08.000.083,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\ShowBassVersion.groupproj=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2021/04/28 00:11:19.000.909,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BassVersion.groupproj=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\ShowBassVersion.groupproj</Transaction>
+    <Transaction>2021/04/28 00:45:36.000.074,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BassVersion.groupproj=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BassVersions.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\WatchAndDelete\0\Delphi-BASS\BassVersions\TestFMX.dproj"/>
+	</Default.Personality>
+</BorlandProject>

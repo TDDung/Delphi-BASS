@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/18 13:24:03.000.403,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/18 14:35:45.000.577,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/18 14:55:59.000.523,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 05:26:16.000.354,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 05:28:22.000.398,C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Tran\Music\1\Main.fmx</Transaction>
+    <Transaction>2020/12/21 05:28:22.000.398,C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Tran\Music\1\Main.pas</Transaction>
+    <Transaction>2020/12/21 05:28:26.000.798,C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Tran\Music\1\BassLiveFX.dproj</Transaction>
+    <Transaction>2020/12/21 06:10:34.000.698,C:\Users\Tran\Music\iOS-Tests\1\Test.dproj=C:\Users\Tran\Music\iOS-Tests\1\BassLiveFX.dproj</Transaction>
+    <Transaction>2020/12/21 06:16:10.000.982,=C:\Users\Tran\Music\iOS-Tests\2\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 06:16:34.000.002,C:\Users\Tran\Music\iOS-Tests\2\Unit1.pas=C:\Users\Tran\Music\iOS-Tests\2\Frameworks.pas</Transaction>
+    <Transaction>2020/12/21 06:18:27.000.337,C:\Users\Tran\Music\iOS-Tests\2\Frameworks.pas=</Transaction>
+    <Transaction>2020/12/22 01:07:44.000.167,=C:\Users\Tran\Downloads\Audio-Libraries-Players\BASS\iOS-Tests\4\Bass\Bass.pas</Transaction>
+    <Transaction>2021/01/15 03:42:56.000.624,=C:\Users\Tran\Videos\DelphiFMX-BASS\FMX-BASSVersion\BASS\FMX.Bass.pas</Transaction>
+    <Transaction>2021/04/28 00:10:42.000.473,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\Test.dproj=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\TestFMX.dproj</Transaction>
+    <Transaction>2021/04/28 00:12:26.000.345,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\Main.pas=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\MainFMX.pas</Transaction>
+    <Transaction>2021/04/28 00:12:26.000.345,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\Main.fmx=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\MainFMX.fmx</Transaction>
+    <Transaction>2021/04/28 00:23:26.000.376,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BASS\FMX.BASS.pas=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BASS\Bass.pas</Transaction>
+    <Transaction>2021/04/30 01:10:16.000.444,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc.pas</Transaction>
+    <Transaction>2021/05/04 00:21:57.000.547,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_FLAC.pas</Transaction>
+    <Transaction>2021/05/04 02:05:16.000.162,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_MP3.pas</Transaction>
+    <Transaction>2021/05/04 02:34:53.000.465,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_OGG.pas</Transaction>
+    <Transaction>2021/05/04 02:35:09.000.643,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_OPUS.pas</Transaction>
+    <Transaction>2021/05/09 00:21:28.000.800,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas</Transaction>
+    <Transaction>2021/05/09 00:21:28.000.838,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas</Transaction>
+    <Transaction>2021/05/12 02:01:09.000.004,D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas=</Transaction>
+    <Transaction>2021/05/12 02:01:09.000.073,D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas=</Transaction>
+    <Transaction>2021/05/15 01:08:45.000.801,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas</Transaction>
+    <Transaction>2021/05/15 01:08:45.000.895,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacOSX iOSSimulator="iPhone5" iOSDevice64="_iosdevice_00008030-001234D936DB802E"/>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
