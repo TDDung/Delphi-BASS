@@ -9,11 +9,40 @@ I have seen so many questions on BASS forums as well as other forums regarding a
 
 ## Sample screenshots of included demo group project BassVersions
 
-**Visual Component Library (VCL) framework**
+### **Visual Component Library (VCL) framework**
 
-https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg
+|Windows|Intel32|Intel64|
+|--|--|--|
+|![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)|![VCL-Windows32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows32.jpg)|![VCL-Windows64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows64.jpg)|
 
-**FireMonkey (FMX) framework**
+### **FireMonkey (FMX) framework**
+
+|Windows|Intel32|Intel64|
+|--|--|--|
+|![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg|![FMX-Windows32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows32.jpg)|![FMX-Windows64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows64.jpg)|
+
+**Windows**
+
+![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg)
+
+|Windows Intel32|Windows Intel64|
+|--|--|
+|![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg)|![FMX-Windows32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows32.jpg)|![FMX-Windows64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows64.jpg)|
+
+**MacOS**
+
+![FMX-MacOS](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/MacOS.jpg)
+![FMX-MacOS64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/MacOS64.jpg)
+
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
+![VCL-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/VCL/Windows.jpg)
 
 Brief description about BASS audio library
 ------------------------------------------
