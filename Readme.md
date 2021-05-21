@@ -29,6 +29,14 @@ I have seen so many questions on BASS forums as well as other forums regarding a
 |--|--|
 |![FMX-Linux](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Linux.jpg)|![FMX-Linux64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Linux64.jpg)|
 
+|Android|ARM32|ARM64|
+|--|--|--|
+|![FMX-Android](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Android.jpg)|![FMX-Android32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Android32.jpg)|![FMX-Android64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Android64.jpg)|
+
+|iOS|ARM64|
+|--|--|
+|![FMX-iOS](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/iOS.jpg)|![FMX-iOS64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/iOS64.jpg)|
+
 Brief description about BASS audio library
 ------------------------------------------
 (See more in www.un4seen.com)
