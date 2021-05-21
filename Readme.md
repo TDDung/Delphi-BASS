@@ -21,14 +21,6 @@ I have seen so many questions on BASS forums as well as other forums regarding a
 |--|--|--|
 |![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg|![FMX-Windows32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows32.jpg)|![FMX-Windows64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows64.jpg)|
 
-**Windows**
-
-![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg)
-
-|Windows Intel32|Windows Intel64|
-|--|--|
-|![FMX-Windows](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows.jpg)|![FMX-Windows32](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows32.jpg)|![FMX-Windows64](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/Windows64.jpg)|
-
 **MacOS**
 
 ![FMX-MacOS](https://github.com/TDDung/Delphi-BASS/blob/main/Screenshots/FMX/MacOS.jpg)
