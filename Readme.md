@@ -1,4 +1,4 @@
-# Delphi-BASS
+﻿# Delphi-BASS
 Delphi's FMX and VCL header/wrapper units for BASS audio library plus add-ons
 
 Hi,
@@ -6,6 +6,12 @@ Hi,
 Based on published free header/wrapper units of BASS audio library plus add-ons on www.un4seen.com, I have improved, modified and added more codes to ensure they work with all platforms that Delphi's FireMonkey and VCL frameworks support. I also collected, intensively tested and structured the libraries into a package for Delphi programmers to use with a very detailed guide accompanied. Finally I also included a simple but sufficiently complete demo project.
 
 I have seen so many questions on BASS forums as well as other forums regarding audio for Delphi so I just thought I could share my work. That's all my intention.
+
+## Sample screenshots of included demo group project BassVersions
+
+**Visual Component Library (VCL) framework**
+
+**FireMonkey (FMX) framework**
 
 Brief description about BASS audio library
 ------------------------------------------
