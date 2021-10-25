@@ -32,6 +32,6 @@
   </Transactions>
 	<ActiveMobileDevice>
 		<PMacOSX iOSSimulator="iPhone5" iOSDevice64="_iosdevice_00008030-001234D936DB802E"/>
-		<NoProfile Android="" Android64=""/>
-	</ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>  <PBigSur11.6 iOSDevice64="_iosdevice_00008030-001234D936DB802E"/>
+  </ActiveMobileDevice>
 </BorlandProject>
