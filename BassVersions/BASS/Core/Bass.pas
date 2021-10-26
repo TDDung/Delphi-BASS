@@ -379,6 +379,7 @@ const
   // BASS_ChannelGetLength/GetPosition/SetPosition modes
   BASS_POS_BYTE = 0; // byte position
   BASS_POS_MUSIC_ORDER = 1; // order.row position, MAKELONG(order,row)
+  BASS_POS_END = $10; // trimmed end position
   BASS_POS_OGG = 3; // OGG bitstream number
   BASS_POS_DECODE = $10000000; // flag: get the decoding (not playing) position
   BASS_POS_DECODETO = $20000000;
